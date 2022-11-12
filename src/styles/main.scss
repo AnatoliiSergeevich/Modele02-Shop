@@ -137,8 +137,8 @@ body{
       position: absolute;
       color: $green;
       text-align: left;
-      &:hover{
-         .main__btn{
+      &:hover {
+         .main__btn {
             &::before {
                background-color: $orange;
                box-shadow: 0 0 0 4px $white, 0 0 0 5px $orange;
@@ -194,8 +194,8 @@ body{
    }
    &__avocado{
       position: absolute;
-      top: 47px;
-      right: -167px;
+      top: 80px;
+      right: 0;
       width: 17.8rem;
    }
    &__pepper{
